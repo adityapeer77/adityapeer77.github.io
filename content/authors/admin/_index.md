@@ -2,11 +2,12 @@
 
 
 # Display name
-title: Simon Gravelle
+title: Prasenjit Karmakar
+name_pronunciation: false
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Prasenjit
+last_name: Karmakar
 
 # Status emoji
 status:
@@ -16,28 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSCA Fellow
+role: Prime Minister's Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, University Grenoble Alpes
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: UbiNet, IIT Kharagpur
+    url: https://cse.iitkgp.ac.in/resgrp/ubinet/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer physicist in soft matter and fluids at interfaces, currently at the LIPhy in Grenoble (France).
+bio: I am a doctoral researcher in ubiquitous computing and sensing, currently at the IIT Kharagpur (India).
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Sensing
+  - Internet of Things
+  - Distributed Systems
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD in Computer Science and Engineering
+      institution: Indian Institute of Technology Kharagpur (India)
+      year: 2022 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,25 +50,25 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GravelleSimon
+    link: https://twitter.com/prasenjit52282
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
+    link: https://scholar.google.com/citations?user=uK96UkwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
-  - icon: gitlab
+    link: https://github.com/prasenjit52282
+  - icon: linkedin-in
     icon_pack: fab
-    link: https://gitlab.com/sgravelle
+    link: https://www.linkedin.com/in/prasenjit52282/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/cv/cv.pdf
+    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -78,7 +79,7 @@ highlight_name: true
 
 **About me**
 
-I am a physicist in soft matter and fluids at interfaces at the [LIPhy](https://liphy.univ-grenoble-alpes.fr/) in Grenoble (France). I just received the [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/) grant *NanoSep* to study the demixing of fluid mixtures by hybrid nanoporous materials.
+I am presently pursuing Ph.D. in the Department of Computer Science and Engineering at the Indian Institute of Technology Kharagpur, India. I am a member of [UbiNet: Ubiquitous Networked Systems Lab](https://cse.iitkgp.ac.in/resgrp/ubinet/). I just received the [PMRF](https://www.pmrf.in/) fellowship to study distributed sensing in indoor environments.
 
 **Open source and open data**
 
