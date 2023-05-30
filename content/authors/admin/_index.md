@@ -32,6 +32,7 @@ interests:
   - Sensing
   - Internet of Things
   - Distributed Systems
+  - Machine Learning
 
 # Education to show in About widget
 education:
@@ -39,6 +40,9 @@ education:
     - course: PhD in Computer Science and Engineering
       institution: Indian Institute of Technology Kharagpur (India)
       year: 2022 - Present
+    - course: Bachelors in Computer Science and Engineering
+      institution: Maulana Abul Kalam Azad University of Technology (India)
+      year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
