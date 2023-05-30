@@ -83,11 +83,13 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
 
 **Open source and open data**
 
-* [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), the Python toolkit for analyzing confined molecular simulations
-* my [Github](https://github.com/simongravelle/) for repository molecular simulation scripts and data
+* [Bus Trajectory](https://github.com/stilllearningsoumya/bus_trajectory_dataset) Dataset for [54 feet-route](https://www.google.com/maps/dir/durgapur/54+Feet/@23.5347909,87.2863414,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x39f7710b47a89171:0x429e1bdb57e009dd!2m2!1d87.3119227!2d23.5204443!1m5!1m1!1s0x39f7720a874929a9:0x38b8e0691e176312!2m2!1d87.2837139!2d23.5482543?entry=ttu) in Durgapur, India
+* [Air Quality](https://github.com/prasenjit52282/AQuaMoHo/tree/master/Data) Dataset for two cities Durgapur and Delhi, India
+* [BuStop](https://github.com/prasenjit52282/BuStop) framework detects stay-location types for public bus
+* [AQuaMoHo](https://github.com/prasenjit52282/AQuaMoHo) framework annotate air quality from Thermo-Hygrometer
 
 **Outreach**
 
-* [LAMMPS tutorials](https://lammpstutorials.github.io) for beginners and advanced LAMMPS users
-* [GROMACS tutorials](https://gromacstutorials.github.io) for beginners and advanced GROMACS users
-* [gallery of animations](https://www.youtube.com/@SimonGravelle) of molecular systems
+* [Distributed Systems](https://medium.com/@prasenjitkarmakar52282) blogs for beginners and advanced learners
+* [shardQ](https://github.com/prasenjit52282/shardQ), MQTT-clone implementation for advanced flask and docker users
+* [LKMs](https://github.com/prasenjit52282/linux_LKM) with proc and ioctl interface for kernel developers
