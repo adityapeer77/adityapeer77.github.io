@@ -48,7 +48,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Fullstack Developer
+        * Full Stack Development
 
   - title: Research Intern
     company: National Institute of Technology Durgapur

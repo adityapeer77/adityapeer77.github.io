@@ -11,10 +11,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: MAICoS
-      tag: MAICoS
-    - name: LAMMPS
-      tag: LAMMPS
+    - name: Teaching
+      tag: Teaching
+    - name: Open Source
+      tag: Opensource
     - name: Personal
       tag: Personal
     #- name: Other
