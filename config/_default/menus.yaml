@@ -21,9 +21,9 @@ main:
   - name: Publications
     url: '/publication.html'
     weight: 60
-  - name: CV
-    url: '/files/cv.pdf'
-    weight: 70
+  # - name: CV
+  #   url: '/files/cv.pdf'
+  #   weight: 70
   
   #Sub-home menu
   # - name: About

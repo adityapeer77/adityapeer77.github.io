@@ -86,7 +86,7 @@ highlight_name: true
 
 **About me**
 
-I am presently pursuing Ph.D. in the Department of Computer Science and Engineering at the Indian Institute of Technology Kharagpur, India. I am a member of [UbiNet: Ubiquitous Networked Systems Lab](https://cse.iitkgp.ac.in/resgrp/ubinet/). I just received the [PMRF](https://www.pmrf.in/) fellowship to study distributed sensing in indoor environments.
+I am presently pursuing Ph.D. in the Department of Computer Science and Engineering at the Indian Institute of Technology Kharagpur, India. I am a member of [UbiNet: Ubiquitous Networked Systems Lab](https://cse.iitkgp.ac.in/resgrp/ubinet/). I have been awarded [Prime Minister's Fellowship](https://www.pmrf.in/) for my Doctoral Research.
 
 **Open source and open data**
 

@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Personal page'
-    twitter: 'Gravellesimon'
+    twitter: 'prasenjit52282'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Simon Gravelle. This work is licensed under {license}.'
+    notice: '© {year} Prasenjit Karmakar. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: true
