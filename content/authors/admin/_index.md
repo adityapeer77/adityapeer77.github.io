@@ -89,7 +89,7 @@ highlight_name: true
 I am presently pursuing Ph.D. in the Department of Computer Science and Engineering at the Indian Institute of Technology Kharagpur, India. I am a member of [UbiNet: Ubiquitous Networked Systems Lab](https://cse.iitkgp.ac.in/resgrp/ubinet/). I have been awarded [Prime Minister's Fellowship](https://www.pmrf.in/) for my Doctoral Research.
 
 **Open source and open data**
-* [Dalton-Dataset](https://github.com/stilllearningsoumya/bus_trajectory_dataset) on Indoor Air pollution and Activites, India 
+* [Dalton-Dataset](https://github.com/prasenjit52282/dalton-dataset) on Indoor Air pollution and Activites, India 
 * [Bus Trajectory](https://github.com/stilllearningsoumya/bus_trajectory_dataset) Dataset for [54 feet-route](https://www.google.com/maps/dir/durgapur/54+Feet/@23.5347909,87.2863414,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x39f7710b47a89171:0x429e1bdb57e009dd!2m2!1d87.3119227!2d23.5204443!1m5!1m1!1s0x39f7720a874929a9:0x38b8e0691e176312!2m2!1d87.2837139!2d23.5482543?entry=ttu) in Durgapur, India
 * [Air Quality](https://github.com/prasenjit52282/AQuaMoHo/tree/master/Data) Dataset for two cities Durgapur and Delhi, India
 * [BuStop](https://github.com/prasenjit52282/BuStop) framework detects stay-location types for public bus
