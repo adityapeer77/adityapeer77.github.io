@@ -24,6 +24,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting Researcher
+    company: Singapore Management University
+    company_url: 'https://computing.smu.edu.sg/'
+    company_logo: 'smu'
+    location: 80 Stamford Road, Singapore
+    date_start: '2025-07-07'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Collaborative Research
+        * Embodied AI and LLMs
+
   - title: Doctoral Researcher
     company: Indian Institute of Technology Kharagpur
     company_url: 'http://www.iitkgp.ac.in/'
@@ -34,8 +47,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Paper Writing
-        * Experiment Design
+        * Technical Writing
+        * HCI and Sensing Research
         * Teaching Assistantship
 
   - title: Systems Engineer
