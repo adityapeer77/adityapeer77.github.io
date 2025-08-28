@@ -13,9 +13,9 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
-  # Contact details (edit or remove options as required)
+  # # Contact details (edit or remove options as required)
   email: prasenjitkarmakar52282@gmail.com
 
 design:

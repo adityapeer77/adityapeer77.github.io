@@ -167,23 +167,51 @@
         {{ $show_day_night := site.Params.header.navbar.show_day_night | default true }}
         {{ $has_day_night_themes := (and site.Params.appearance.theme_day site.Params.appearance.theme_night) }}
         {{ if and $has_day_night_themes $show_day_night }}
-        <li class="nav-item dropdown theme-dropdown">
-          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="{{ i18n "theme_selector" | default "Display preferences" }}">
+        <li class="nav-item theme-toggle">
+          <a href="#" class="nav-link js-set-theme" aria-label="{{ i18n "theme_toggle" | default "Toggle theme" }}">
             <i class="fas fa-moon" aria-hidden="true"></i>
+            <span class="theme-text" hidden="true">{{ i18n "theme_dark" | default "Dark" }}</span>
           </a>
-          <div class="dropdown-menu">
-            <a href="#" class="dropdown-item js-set-theme-light">
-              <span>{{ i18n "theme_light" | default "Light" }}</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-dark">
-              <span>{{ i18n "theme_dark" | default "Dark" }}</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-auto">
-              <span>{{ i18n "theme_auto" | default "Automatic" }}</span>
-            </a>
-          </div>
         </li>
         {{ end }}
+
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            const themeButton = document.querySelector('.js-set-theme');
+            const themeText = themeButton.querySelector('.theme-text');
+            const themeIcon = themeButton.querySelector('i');
+        
+            // Check local storage for saved theme, otherwise use media query
+            const storedTheme = localStorage.getItem('theme');
+            const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const currentTheme = storedTheme || (prefersDarkScheme ? 'dark' : 'light');
+            
+            document.body.classList.add(currentTheme);
+            updateButtonTextAndIcon(currentTheme);
+        
+            themeButton.addEventListener('click', function() {
+              const newTheme = document.body.classList.contains('light') ? 'dark' : 'light';
+              document.body.classList.toggle('light', newTheme === 'light');
+              document.body.classList.toggle('dark', newTheme === 'dark');
+        
+              updateButtonTextAndIcon(newTheme);
+        
+              localStorage.setItem('theme', newTheme);
+            });
+        
+            function updateButtonTextAndIcon(theme) {
+              if (theme === 'light') {
+                themeText.textContent = '{{ i18n "theme_light" | default "Light" }}';
+                themeIcon.classList.remove('fa-sun');
+                themeIcon.classList.add('fa-moon');
+              } else {
+                themeText.textContent = '{{ i18n "theme_dark" | default "Dark" }}';
+                themeIcon.classList.remove('fa-moon');
+                themeIcon.classList.add('fa-sun');
+              }
+            }
+          });
+        </script>
 
         {{ $show_translations := site.Params.header.navbar.show_translations | default true }}
         {{ if .IsTranslated | and $show_translations }}
