@@ -29,10 +29,11 @@ bio: I am a doctoral researcher in ubiquitous computing and sensing, currently a
 
 # Interests to show in About widget
 interests:
-  - Sensing
+  - Sensing and HCI
   - Internet of Things
   - Distributed Systems
   - Machine Learning
+  - Embodied AI and LLMs
 
 # Education to show in About widget
 education:
