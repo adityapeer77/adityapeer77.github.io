@@ -1,4 +1,4 @@
----
+<!-- ---
 date: 2024-10-22
 publishDate: 2024-10-22
 external_link: ""
@@ -21,4 +21,4 @@ Offering Teaching Assistanceship in [The Joy of Computing using Python](https://
 * hands-on problem solving experience (case-studies) with various open source libraries such as numpy, pandas, matplotlib etc.
 
 Prerequisites: Basic concepts of Programming, beginner level C.<br>
-Mode:	Online Every Tuesday, 6:00 PM - 8:00 PM (26 hours in total)
+Mode:	Online Every Tuesday, 6:00 PM - 8:00 PM (26 hours in total) -->

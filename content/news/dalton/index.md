@@ -1,4 +1,4 @@
----
+<!-- ---
 date: 2024-11-19
 publishDate: 2024-11-19
 external_link: ""
@@ -30,4 +30,4 @@ We present spatiotemporal measurements of air quality from 30 indoor sites over 
 * Multi-city deployment: Data from four regions in India, covering rural, suburban, and urban populations.
 * Dataset duration: Data collected over six months (Summer and Winter), capturing seasonal pollution dynamics and behavioral variations.
 
-<b>Licensing:</b> <span style="color:blue;">The dataset is free to download and can be used with GNU Affero General Public License for non-commercial purposes. All participants signed forms consenting to the use of collected pollutant measurements and activity labels for non-commercial research purposes. The institute’s ethical review committee has approved the field study (Order No: IIT/SRIC/DEAN/2023, Dated July 31, 2023).</span>
+<b>Licensing:</b> <span style="color:blue;">The dataset is free to download and can be used with GNU Affero General Public License for non-commercial purposes. All participants signed forms consenting to the use of collected pollutant measurements and activity labels for non-commercial research purposes. The institute’s ethical review committee has approved the field study (Order No: IIT/SRIC/DEAN/2023, Dated July 31, 2023).</span> -->

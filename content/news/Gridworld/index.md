@@ -1,4 +1,4 @@
----
+<!-- ---
 date: 2023-05-30
 publishDate: 2023-05-30
 external_link: ""
@@ -19,4 +19,4 @@ links:
 The Grid-World package allows you to get your own table-based Reinforcement Learning-test environment with minimal line of code. You can interact with the environment and observe the emergent policy after the algorithm converges. The package provides:
 * easy way to define an environment (see test.py)
 * similar interface as openai-gym
-* compitable with all model-free table-based RL-algorithm
+* compitable with all model-free table-based RL-algorithm -->

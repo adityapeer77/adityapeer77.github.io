@@ -1,4 +1,4 @@
----
+<!-- ---
 date: 2025-07-20
 publishDate: 2025-07-20
 external_link: ""
@@ -28,4 +28,4 @@ Offering [Introduction to Computing with Python](https://docs.google.com/documen
 Prerequisites: Basic concepts of Programming, beginner level C.<br>
 <strong>Run1:</strong>	Bengal College of Engineering and Technology Durgapur, Online from 25th June, 2023, 2:00 PM<br>
 <strong>Run2:</strong>	NPTEL (The Joy of Computing using Python), Online from 20th July, 2024, 6:00 PM<br>
-<strong>Run3:</strong> Government College of Engineeering Kishanganj, Online from 20th July, 2025, 5:00 PM
+<strong>Run3:</strong> Government College of Engineeering Kishanganj, Online from 20th July, 2025, 5:00 PM -->

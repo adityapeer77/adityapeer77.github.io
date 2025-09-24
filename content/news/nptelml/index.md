@@ -1,4 +1,4 @@
----
+<!-- ---
 date: 2025-01-29
 publishDate: 2025-01-29
 external_link: ""
@@ -21,4 +21,4 @@ Offering Teaching Assistanceship in [Introduction to Machine Learning](https://o
 * hands-on problem solving experience (case-studies) with various open source libraries such as numpy, pandas, matplotlib, tensorflow, pytorch, etc.
 
 Prerequisites: Basic concepts of Programming, beginner level C.<br>
-Mode:	Online Every Saturday, 6:00 PM - 8:00 PM (26 hours in total)
+Mode:	Online Every Saturday, 6:00 PM - 8:00 PM (26 hours in total) -->

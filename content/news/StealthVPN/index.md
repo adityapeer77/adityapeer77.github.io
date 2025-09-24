@@ -1,4 +1,4 @@
----
+<!-- ---
 date: 2024-10-22
 publishDate: 2024-10-22
 external_link: ""
@@ -20,4 +20,4 @@ The repository implements a scalable non-blockable VPN service to enable unrestr
 
 * VPN server must allows inbound connection to port: 443
 * Local Proxy must allows outbound connection to port: 443, and inbound connection to ports: 2000 (socks5), 2002 (sshd)
-* End user must use appropiate proxy clients to connect to the local proxy server. Some tested clients are shown later
+* End user must use appropiate proxy clients to connect to the local proxy server. Some tested clients are shown later -->
