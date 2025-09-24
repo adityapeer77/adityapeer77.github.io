@@ -101,7 +101,7 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
   - Distributed systems
   - Networks for AI/ML
 
-**Personel**
+**Personal**
 
 I like to play cricket and badminton to escape from research chores and I often want to visit new places to connect with nature.
 
