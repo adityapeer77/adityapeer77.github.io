@@ -32,7 +32,7 @@ interests:
   - Software-defined networking
   - Programmable data planes
   - Distributed systems
-  - Networks for LLMs
+  - Networks for AI/ML
 
 # Education to show in About widget
 education:
@@ -52,6 +52,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  # - icon: twitter
+    # icon_pack: fab
+    # link: https://x.com/PeerAditya98076
+    # label: Follow me on Twitter
   - icon: twitter
     icon_pack: fab
     link: https://x.com/PeerAditya98076
