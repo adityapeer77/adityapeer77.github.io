@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Exploiting Multi-modal Contextual Sensing for City-bus's Stay Location Characterization: Towards Sub-60 Seconds Accurate Arrival Time Prediction"
 date: 2023-02-23
 publishDate: 2023-02-23
@@ -20,4 +20,4 @@ links:
     icon: open-data
     name: Open data
     url: 'https://github.com/stilllearningsoumya/bus_trajectory_dataset'
----
+--- -->

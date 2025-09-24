@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Ad-hocBusPoI: Context Analysis of Ad-hoc Stay-locations from Intra-city Bus Mobility and Smartphone Crowdsensing"
 date: 2020-11-13
 publishDate: 2020-11-13
@@ -32,4 +32,4 @@ icon_pack: fab
 icon: github
 
 icon_pack: fas
-icon: newspaper -->
+icon: newspaper --> -->

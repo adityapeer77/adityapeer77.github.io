@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Exploiting Air Quality Monitors to Perform Indoor Surveillance: Academic Setting"
 date: 2024-09-21
 publishDate: 2024-09-21
@@ -12,4 +12,4 @@ links:
     icon: scroll
     name: Link
     url: 'https://dl.acm.org/doi/10.1145/3640471.3680243'
----
+--- -->

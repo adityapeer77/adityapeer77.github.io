@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Reliable Backhauling in Aerial Communication Networks Against UAV Failures: A Deep Reinforcement Learning Approach"
 date: 2022-08-08
 publishDate: 2022-08-08
@@ -12,4 +12,4 @@ links:
     icon: scroll
     name: Link
     url: 'https://doi.org/10.1109/TNSM.2022.3196852'
----
+--- -->
