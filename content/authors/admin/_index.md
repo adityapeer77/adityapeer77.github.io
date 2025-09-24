@@ -74,7 +74,7 @@ social:
     label: Follow me on Linkedin
   - icon: cv
     icon_pack: ai
-    link: files/resume/cv.pdf
+    link: files/cv.pdf
     display:
       header: true
   # Link to a PDF of your resume/CV.
