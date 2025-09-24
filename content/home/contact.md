@@ -16,7 +16,7 @@ content:
   autolink: false
 
   # # Contact details (edit or remove options as required)
-  email: prasenjitkarmakar52282@gmail.com
+  email: adityap@iiitd.ac.in
 
 design:
   columns: '2'
