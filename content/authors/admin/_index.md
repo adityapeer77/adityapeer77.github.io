@@ -28,7 +28,7 @@ organizations:
 bio: I am a PhD Scholar in Programmable Networking Lab, currently at the IIIT Delhi (India).
 
 # Interests to show in About widget
-interests:
+Research interests:
   - Software-defined networking
   - Programmable data planes
   - Distributed systems
@@ -72,6 +72,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/aditya-peer-787960224/
     label: Follow me on Linkedin
+  - icon: cv
+    icon_pack: ai
+    link: files/resume/resume-simon-gravelle.pdf
     display:
       header: true
   # Link to a PDF of your resume/CV.
