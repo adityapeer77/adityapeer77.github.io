@@ -15,8 +15,8 @@ content:
       tag: Teaching
     - name: Open Source
       tag: Opensource
-    - name: Personal
-      tag: Personal
+    # - name: Personal
+      # tag: Personal
     #- name: Other
     #  tag: Other
 design:
