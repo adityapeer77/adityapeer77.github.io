@@ -6,7 +6,7 @@ external_link: ""
 #   caption: NPTEL Intro to ML Course
 #   focal_point: Smart
 slides: example
-summary: Organizing live interaction sessions for NPTEL course - Introduction to Machine Learning
+# summary: Organizing live interaction sessions for NPTEL course - Introduction to Machine Learning
 tags:
 - Teaching
 title: TA for Operating System Course
