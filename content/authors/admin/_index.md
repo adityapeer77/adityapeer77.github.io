@@ -93,7 +93,7 @@ highlight_name: true
 
 **About me**
 
-I am presently pursuing Ph.D. in the Department of Computer Science and Engineering at the Indraprastha Institute of Information Technology, India.I am currently working in areas of accelerating data planes path. I am a member of [PNL: Programmable Networking Lab](https://) under Dr. Rinku Shah.
+I am presently pursuing Ph.D. in the Department of Computer Science and Engineering at the Indraprastha Institute of Information Technology, India.I am currently working in areas of accelerating data planes path. I am a member of [PNL: Programmable Networking Lab] under Dr. Rinku Shah.
 
 **Research interests:**
   - Software-defined networking
