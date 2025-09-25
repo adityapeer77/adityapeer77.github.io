@@ -16,9 +16,9 @@ title: TA for Operating System Course
 #     name: Recorded Sessions
 #     url: 'https://www.youtube.com/watch?v=3Ugdgy7uVAg&list=PL4OzPVnKOQIMujUXoGoLFoawVH9gWzGKA'
 # ---
-<!-- Offering Teaching Assistanceship in [Introduction to Machine Learning](https://onlinecourses.nptel.ac.in/noc25_cs46/preview), NPTEL Course in Spring 2025 semester. The course will provide:
-* intermediate level knowledge of python programming language
-* hands-on problem solving experience (case-studies) with various open source libraries such as numpy, pandas, matplotlib, tensorflow, pytorch, etc.
+# <!-- Offering Teaching Assistanceship in [Introduction to Machine Learning](https://onlinecourses.nptel.ac.in/noc25_cs46/preview), NPTEL Course in Spring 2025 semester. The course will provide:
+# * intermediate level knowledge of python programming language
+# * hands-on problem solving experience (case-studies) with various open source libraries such as numpy, pandas, matplotlib, tensorflow, pytorch, etc.
 
-Prerequisites: Basic concepts of Programming, beginner level C.<br>
-Mode:	Online Every Saturday, 6:00 PM - 8:00 PM (26 hours in total) -->
+# Prerequisites: Basic concepts of Programming, beginner level C.<br>
+# Mode:	Online Every Saturday, 6:00 PM - 8:00 PM (26 hours in total) -->
