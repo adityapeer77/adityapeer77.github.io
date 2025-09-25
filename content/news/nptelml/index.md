@@ -1,6 +1,6 @@
 ---
-date: 2025-01-29
-publishDate: 2025-01-29
+date: 2025-08-29
+publishDate: 2025-08-29
 external_link: ""
 # image:
 #   caption: NPTEL Intro to ML Course
@@ -15,6 +15,7 @@ title: TA for Operating System Course
 #     icon: newspaper
 #     name: Recorded Sessions
 #     url: 'https://www.youtube.com/watch?v=3Ugdgy7uVAg&list=PL4OzPVnKOQIMujUXoGoLFoawVH9gWzGKA'
+
 ---
 
 Offering Teaching Assistanceship in [Operating System](https://techtree.iiitd.edu.in/viewDescription/filename?=CSE231),Course in Spring 2025 semester.
