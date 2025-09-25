@@ -18,7 +18,7 @@ title: TA for Operating System Course
 
 ---
 
-Offering Teaching Assistanceship in [Operating System](https://techtree.iiitd.edu.in/viewDescription/filename?=CSE231),Course in Spring 2025 semester.
+Offering Teaching Assistanceship in [Operating System](https://techtree.iiitd.edu.in/viewDescription/filename?=CSE231),Course in Monsoon 2025 semester.
  <!-- The course will provide: -->
 
 <!-- # * intermediate level knowledge of python programming language
