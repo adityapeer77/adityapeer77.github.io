@@ -16,7 +16,10 @@ title: TA for Operating System Course
 #     name: Recorded Sessions
 #     url: 'https://www.youtube.com/watch?v=3Ugdgy7uVAg&list=PL4OzPVnKOQIMujUXoGoLFoawVH9gWzGKA'
 ---
-# <!-- Offering Teaching Assistanceship in [Introduction to Machine Learning](https://onlinecourses.nptel.ac.in/noc25_cs46/preview), NPTEL Course in Spring 2025 semester. The course will provide:
+
+Offering Teaching Assistanceship in [Operating System](https://techtree.iiitd.edu.in/viewDescription/filename?=CSE231),Course in Spring 2025 semester.
+ <!-- The course will provide: -->
+
 <!-- # * intermediate level knowledge of python programming language
 # * hands-on problem solving experience (case-studies) with various open source libraries such as numpy, pandas, matplotlib, tensorflow, pytorch, etc. -->
 
