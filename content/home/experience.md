@@ -1,4 +1,4 @@
----
+<!-- ---
 active: true
 
 # An instance of the Experience widget.
@@ -78,4 +78,4 @@ experience:
 
 design:
   columns: '2'
----
+--- -->
