@@ -1,6 +1,6 @@
 ---
-date: 2025-08-29
-publishDate: 2025-08-29
+date: 2025-08-25
+publishDate: 2025-08-25
 external_link: ""
 # image:
 #   caption: NPTEL Intro to ML Course
