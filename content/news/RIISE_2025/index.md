@@ -9,7 +9,7 @@ slides: example
 # summary: A much needed fellowship during my PhD journey
 tags:
 - Personal
-title: Presented our work at Flash talk at RIISE'25
+title: Presented our work in Flash talk at RIISE'25
 links:
   - icon_pack: fas
     icon: scroll
