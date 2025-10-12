@@ -3,7 +3,7 @@ date: 2023-03-27
 publishDate: 2023-03-27
 external_link: ""
 image:
-  caption: Present
+  caption: Fellowship
   focal_point: Smart
 slides: example
 # summary: A much needed fellowship during my PhD journey
@@ -17,4 +17,4 @@ links:
     # url: 'https://www.pmrf.in/'
 
 ---
-SURF Excellence Award on the Project: Realizing CoDel AQM for Programmable Switch ASIC, Summer [2023]
+<!-- SURF Excellence Award on the Project: Realizing CoDel AQM for Programmable Switch ASIC, Summer [2023] -->
