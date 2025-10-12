@@ -10,9 +10,9 @@ slides: example
 tags:
 - Personal
 title: Got in the best top five talks in RIISE September-2025
-links:
-  - icon_pack: fas
-    icon: scroll
+# links:
+#   - icon_pack: fas
+    # icon: scroll
     # name: Website
     # url: 'https://www.pmrf.in/'
 
