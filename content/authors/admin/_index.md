@@ -21,7 +21,7 @@ role: Learning with systems and networks
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: PNL, IIIT Delhi
+  - name: NESt, IIIT Delhi
     url: https://
 
 # Short bio (displayed in user profile at end of posts)
