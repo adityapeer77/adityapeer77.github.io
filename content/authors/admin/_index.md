@@ -103,7 +103,7 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
 
 **Personal**
 
-I like to play cricket and badminton to escape from research chores and I often want to visit new places to connect with nature.
+I like playing cricket and badminton, and I enjoy visiting new places to spend time in nature.
 
 <!-- **Open source and open data**
 * [Dalton-Dataset](https://github.com/prasenjit52282/dalton-dataset) on Indoor Air pollution and Activites, India 
