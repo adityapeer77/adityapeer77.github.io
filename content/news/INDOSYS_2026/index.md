@@ -8,7 +8,7 @@ image:
 slides: example
 tags:
   - Personal
-title: IndoSys'26
+title: IndoSys'26 - Recieved Best Poster Award
 
 links:
   - icon_pack: fas
