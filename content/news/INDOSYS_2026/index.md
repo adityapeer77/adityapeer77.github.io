@@ -8,7 +8,7 @@ image:
 slides: example
 tags:
   - Personal
-title: Indosys'26
+title: IndoSys'26
 
 links:
   - icon_pack: fas
