@@ -19,7 +19,7 @@ links:
   - icon_pack: fas
     icon: image
     name: Poster
-    url: "files/Indosys.pdf"
+    url: "files/IndoSys.pdf"
 
   - icon_pack: fas
     icon: scroll
