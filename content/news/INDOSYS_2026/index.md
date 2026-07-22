@@ -14,19 +14,19 @@ links:
   - icon_pack: fas
     icon: file-alt
     name: Paper
-    url: "https://your-paper-link"
+    url: "https://dl.acm.org/doi/10.1145/3786286"
 
   - icon_pack: fas
     icon: image
     name: Poster
-    url: "https://your-poster-link"
+    url: "/home/aditya-peer/Desktop/resume_web/adityapeer77.github.io/static/files/Indosys Poster _ PhD25017_Aditya_Peer.pdf"
 
   - icon_pack: fas
     icon: scroll
     name: Conference Website
-    url: "https://conference-website"
+    url: "https://indosys-conf.github.io/2026/"
 
 ---
 Presented our paper at the **INDOSYS 2026** conference and received the **Best Poster Award**.
 
-You can also access the [paper](https://dl.acm.org/doi/10.1145/3786286) and the [poster](https://your-poster-link).
+You can also access the [paper](https://dl.acm.org/doi/10.1145/3786286) and the [poster]().
