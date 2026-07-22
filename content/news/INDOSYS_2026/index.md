@@ -19,7 +19,7 @@ links:
   - icon_pack: fas
     icon: image
     name: Poster
-    url: "/home/aditya-peer/Desktop/resume_web/adityapeer77.github.io/static/files/Indosys.pdf"
+    url: "files/Indosys.pdf"
 
   - icon_pack: fas
     icon: scroll
